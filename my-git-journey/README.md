@@ -7,3 +7,5 @@
 - Git push send local commits to GitHub.
 - Git pull get changes from the remote repository and integrate them into the local system.
 - A merge conflict takes place when we have two versions of one issue that we as human beings must deside which one of them is correct.
+
+# This is my meaningful improvement
